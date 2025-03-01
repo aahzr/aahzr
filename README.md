@@ -1,4 +1,4 @@
-# ahsan(g)petarung
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=calibri&size=35&pause=1000&color=C70000&width=435&lines=Hi+There+%F0%9F%91%8B;I'm+Ahsan)](https://git.io/typing-svg)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a.ahzr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aahazr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andiahsanashuri@gmail.com) 
 
 # Tech Stack
