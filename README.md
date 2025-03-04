@@ -19,7 +19,7 @@
   </p>
 
   ---
-
+ 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,css,html,bootstrap,tailwind,github,java,javascript,py" />
   </a>
