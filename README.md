@@ -26,11 +26,6 @@
     <img src="https://skillicons.dev/icons?i=git,cpp,css,html,bootstrap,tailwind,github,java,javascript,py" />
   </a>
 
-  ---
-
-  ![](https://github-profile-trophy.vercel.app/?username=aahzr&theme=radical&no-frame=false&no-bg=true&margin-w=3)
-
-  ---
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aahzr/aahzr/output/github-snake-dark.svg" />
