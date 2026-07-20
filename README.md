@@ -23,7 +23,7 @@
   ---
  
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,html,bootstrap,tailwind,github,java,javascript,py" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,html,bootstrap,tailwind,github,java,javascript,py,cpanel" />
   </a>
 
 
